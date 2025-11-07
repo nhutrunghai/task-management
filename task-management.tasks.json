@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5ba"
+  },
+  "title": "Công việc 1",
+  "status": "finish",
+  "content": "Hoàn thành báo cáo tuần.",
+  "timeStart": "2023-09-15T08:00:00.000Z",
+  "timeFinish": "2023-09-15T17:00:00.000Z",
+  "createdAt": "2023-09-15T07:00:00.000Z",
+  "updatedAt": "2023-09-15T17:05:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5bb"
+  },
+  "title": "Công việc 2",
+  "status": "pending",
+  "content": "Chuẩn bị tài liệu họp nhóm.",
+  "timeStart": "2023-09-16T09:00:00.000Z",
+  "timeFinish": "2023-09-16T11:30:00.000Z",
+  "createdAt": "2023-09-15T19:00:00.000Z",
+  "updatedAt": "2023-09-16T10:00:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5bc"
+  },
+  "title": "Công việc 3",
+  "status": "finish",
+  "content": "Cập nhật dữ liệu khách hàng.",
+  "timeStart": "2023-09-17T13:00:00.000Z",
+  "timeFinish": "2023-09-17T16:00:00.000Z",
+  "createdAt": "2023-09-17T08:00:00.000Z",
+  "updatedAt": "2023-09-17T16:05:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5bd"
+  },
+  "title": "Công việc 4",
+  "status": "pending",
+  "content": "Kiểm tra và cập nhật kho hàng.",
+  "timeStart": "2023-09-18T09:00:00.000Z",
+  "timeFinish": "2023-09-18T15:00:00.000Z",
+  "createdAt": "2023-09-18T07:30:00.000Z",
+  "updatedAt": "2023-09-18T14:00:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5be"
+  },
+  "title": "Công việc 5",
+  "status": "notFinish",
+  "content": "Hoàn thiện module đăng nhập.",
+  "timeStart": "2023-09-19T10:00:00.000Z",
+  "timeFinish": "2023-09-19T18:00:00.000Z",
+  "createdAt": "2023-09-19T09:00:00.000Z",
+  "updatedAt": "2023-09-19T12:00:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5bf"
+  },
+  "title": "Công việc 6",
+  "status": "finish",
+  "content": "Test API và fix lỗi backend.",
+  "timeStart": "2023-09-20T08:30:00.000Z",
+  "timeFinish": "2023-09-20T16:30:00.000Z",
+  "createdAt": "2023-09-20T07:00:00.000Z",
+  "updatedAt": "2023-09-20T16:35:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5c0"
+  },
+  "title": "Công việc 7",
+  "status": "notFinish",
+  "content": "Viết tài liệu hướng dẫn sử dụng hệ thống.",
+  "timeStart": "2023-09-21T09:00:00.000Z",
+  "timeFinish": "2023-09-21T17:00:00.000Z",
+  "createdAt": "2023-09-21T07:30:00.000Z",
+  "updatedAt": "2023-09-21T09:45:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5c1"
+  },
+  "title": "Công việc 8",
+  "status": "pending",
+  "content": "Chuẩn bị slide thuyết trình dự án.",
+  "timeStart": "2023-09-22T10:00:00.000Z",
+  "timeFinish": "2023-09-22T15:00:00.000Z",
+  "createdAt": "2023-09-22T08:00:00.000Z",
+  "updatedAt": "2023-09-22T10:30:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5c2"
+  },
+  "title": "Công việc 9",
+  "status": "finish",
+  "content": "Tổng hợp kết quả kiểm thử phần mềm.",
+  "timeStart": "2023-09-23T09:00:00.000Z",
+  "timeFinish": "2023-09-23T18:00:00.000Z",
+  "createdAt": "2023-09-23T07:00:00.000Z",
+  "updatedAt": "2023-09-23T18:05:00.000Z",
+  "deleted": false
+},
+{
+  "_id": {
+    "$oid": "690d7b8f886ccb68db60a5c3"
+  },
+  "title": "Công việc 10",
+  "status": "notFinish",
+  "content": "Triển khai bản cập nhật mới cho hệ thống.",
+  "timeStart": "2023-09-24T08:30:00.000Z",
+  "timeFinish": "2023-09-24T17:00:00.000Z",
+  "createdAt": "2023-09-24T07:30:00.000Z",
+  "updatedAt": "2023-09-24T12:00:00.000Z",
+  "deleted": false
+}]
